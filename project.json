@@ -1,1 +1,12 @@
-{"name": "demo-test2", "display_name": "Demo Test 2", "created_at": "2026-06-02T00:00:00Z"}
+{
+  "name": "demo-test2",
+  "display_name": "Demo Test 2",
+  "created_at": "2026-06-02T00:00:00Z",
+  "github": {
+    "repo_url": "https://github.com/ealtamirabdi/arca-tester-tmp2-1780465699.git",
+    "branch": "master",
+    "auto_push": true,
+    "last_push": "2026-06-03T05:48:22.682352+00:00",
+    "push_count": 1
+  }
+}
